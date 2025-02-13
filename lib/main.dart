@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'views/onbording_views';
+import 'views/onbording_views.dart';
+
+//import 'views/onbording_views';
 
 void main() {
   runApp(const MyApp());
